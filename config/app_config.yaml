@@ -1,0 +1,35 @@
+categories:
+  auto_categorization: true
+  custom_categories_enabled: true
+  default_category: Other
+  ml_categorization: false
+  suggestion_confidence_threshold: 0.7
+ocr:
+  confidence_threshold: 60.0
+  enhance_contrast: true
+  enhance_sharpness: true
+  language: eng
+  min_image_height: 600
+  min_image_width: 800
+  oem_mode: 3
+  preprocessing_enabled: true
+  psm_mode: 6
+storage:
+  auto_export_enabled: false
+  backup_enabled: true
+  backup_frequency_days: 7
+  database_path: receipt_data.sqlite3
+  google_sheets_enabled: false
+ui:
+  max_file_size_mb: 10
+  mobile_responsive: true
+  page_icon: "\U0001F9FE"
+  page_title: Receipt Scanner
+  sidebar_expanded: true
+  supported_formats:
+  - png
+  - jpg
+  - jpeg
+  - gif
+  - bmp
+  theme: light
