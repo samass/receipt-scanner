@@ -1,0 +1,26 @@
+HEALTH PLUS PHARMACY
+321 Medical Center Dr
+Peoria, IL 61602
+(309) 555-0287
+
+Date: 12/01/2023    Time: 11:30 AM
+Pharmacist: Dr. Johnson
+
+PRESCRIPTION #RX123456
+IBUPROFEN 200MG       12.99
+VITAMINS DAILY        19.99
+BANDAGES              5.99
+THERMOMETER          14.99
+COUGH DROPS           3.99
+
+SUBTOTAL             57.95
+TAX                   4.64
+TOTAL                62.59
+
+INSURANCE COPAY:      10.00
+PATIENT PAYS:         52.59
+
+CREDIT CARD ****3456
+APPROVED
+
+Get well soon!

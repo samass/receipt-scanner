@@ -1,0 +1,24 @@
+LUIGI'S ITALIAN RESTAURANT
+456 Oak Avenue
+Chicago, IL 60614
+(312) 555-0199
+
+Table: 12    Server: Marco
+Date: 12/01/2023    Time: 7:45 PM
+
+CHICKEN PARMESAN      18.99
+CAESAR SALAD           8.99
+GARLIC BREAD           4.99
+SPAGHETTI MARINARA    14.99
+TIRAMISU               6.99
+SOFT DRINKS (2)        5.98
+
+SUBTOTAL             59.93
+TAX                   4.79
+TIP (18%)            10.79
+TOTAL                75.51
+
+CREDIT CARD ****5678
+APPROVED
+
+Grazie! Come back soon!

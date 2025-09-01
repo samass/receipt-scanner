@@ -32,4 +32,4 @@ ui:
   - jpeg
   - gif
   - bmp
-  theme: light
+  theme: dark

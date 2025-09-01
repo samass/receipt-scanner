@@ -1,0 +1,28 @@
+FRESH MART GROCERY
+123 Main Street
+Springfield, IL 62701
+(217) 555-0123
+
+Date: 12/01/2023    Time: 2:30 PM
+Cashier: Sarah M.    Register: 3
+
+MILK 2% GALLON         3.99
+BREAD WHOLE WHEAT      2.49
+EGGS LARGE DOZEN       2.89
+BANANAS LB            1.99
+CHICKEN BREAST LB      8.99
+PASTA SAUCE           1.79
+CHEESE SLICED         4.99
+YOGURT GREEK          5.99
+APPLES HONEYCRISP     3.49
+CEREAL CHEERIOS       4.99
+
+SUBTOTAL             41.60
+TAX (8.25%)           3.43
+TOTAL               45.03
+
+DEBIT CARD ****1234
+APPROVED
+
+THANK YOU FOR SHOPPING!
+Visit us online: freshmartgrocery.com

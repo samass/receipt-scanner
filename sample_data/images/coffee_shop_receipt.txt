@@ -1,0 +1,23 @@
+BREW & BEANS COFFEE
+159 University Ave
+Champaign, IL 61820
+(217) 555-0344
+
+Date: 12/01/2023    Time: 8:15 AM
+Barista: Alex
+
+LARGE LATTE            4.99
+BLUEBERRY MUFFIN       3.49
+LARGE AMERICANO        3.99
+CROISSANT             2.99
+
+SUBTOTAL             15.46
+TAX                   1.24
+TIP                   3.00
+TOTAL                19.70
+
+MOBILE PAY ****7890
+APPROVED
+
+Thanks for choosing Brew & Beans!
+Free WiFi: BrewGuest / Password: coffee123

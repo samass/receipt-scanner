@@ -1,0 +1,25 @@
+SPEEDWAY #1234
+789 Highway 55
+Bloomington, IL 61701
+(309) 555-0156
+
+Date: 12/01/2023
+Time: 4:15 PM
+
+UNLEADED 87 OCTANE
+Gallons: 12.456
+Price/Gal: $3.299
+Fuel Total: $41.10
+
+ENERGY DRINK           2.99
+CHIPS                  1.99
+CANDY BAR              1.49
+
+MERCHANDISE TOTAL:     6.47
+FUEL TOTAL:           41.10
+TOTAL:                47.57
+
+DEBIT CARD ****9012
+APPROVED
+
+THANK YOU!
